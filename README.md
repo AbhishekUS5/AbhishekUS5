@@ -14,8 +14,3 @@ I am currently learning and building projects using Java, Spring Boot, and React
 ---
 [![](https://visitcount.itsvg.in/api?id=AbhishekUS5&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 📊 GitHub Stats (This Year Only)
-
-![](https://github-readme-stats.vercel.app/api?username=AbhishekUS5&show_icons=true&theme=dark&hide_border=false&count_private=false&include_all_commits=false)
-
